@@ -1,0 +1,6 @@
+[2026-06-01 10:06:17] [ERROR] CRITICAL: DERIV_TOKEN is not defined in your environment variables.
+[2026-06-01 10:06:17] [INFO] Please create a .env file in the root directory and add your token, e.g.:
+[2026-06-01 10:08:11] [INFO] Last trade lost. Applying Martingale: stake increased from $0.35 to $0.70 (Step 1 of 3)
+[2026-06-01 10:08:11] [INFO] Last trade won. Resetting stake to starting amount: $0.35
+[2026-06-01 10:08:11] [WARNING] Max Martingale steps (3) reached. Resetting stake to starting amount: $0.35
+[2026-06-01 10:08:11] [WARNING] Calculated Martingale stake $6.00 exceeds Max Stake Cap of $5.00. Capping at $5.00

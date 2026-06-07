@@ -1,0 +1,13 @@
+{
+  "name": "deriv-even-odd-bot",
+  "version": "1.0.0",
+  "description": "Deriv Even/Odd trading bot in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ws": "^8.18.0"
+  }
+}
