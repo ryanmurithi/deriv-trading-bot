@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deriv Even/Odd Trading Bot
 
 A robust, automated Node.js trading bot that executes Even/Odd digits contracts on Deriv Volatility indices via the native WebSockets API. The bot implements a configurable contrarian frequency analysis strategy (and fallback options), automatic risk management, Martingale position scaling, clear console and file logging, and a strict safety gate to prevent accidental real-money trading.
@@ -110,3 +111,6 @@ Each major transaction is timestamped and appended to the local `trades.log` fil
 [2026-06-01 13:05:06] TRADE: Direction: DIGITODD | Stake: $0.35 | Outcome: WON | Profit/Loss: +$0.34 | Balance: $10005.34
 [2026-06-01 13:05:12] SESSION SUMMARY: Total Trades: 1 | Wins/Losses: 1/0 | Win Rate: 100.00% | Net Profit/Loss: +$0.34 | Balance: $10005.34
 ```
+=======
+# deriv-trading-bot
+>>>>>>> 547c95b2229004c62bcf0ea4c5bf293c37ae6245
